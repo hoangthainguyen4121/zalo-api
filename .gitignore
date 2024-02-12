@@ -31,3 +31,4 @@
 *.vsp
 *.vspx
 *.sap
+/obj/
