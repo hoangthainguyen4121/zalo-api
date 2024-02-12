@@ -1,3 +1,8 @@
 **/obj/
 **/bin/
 **/.vs/
+
+# Ignore specific files (if needed, but generally ignoring the directory is enough)
+**/Zalo.Tet.Api.GeneratedMSBuildEditorConfig.editorconfig
+**/warmup.sem
+**/Zalo.Tet.Api.csproj.nuget.g.targets
